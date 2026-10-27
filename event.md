@@ -2,11 +2,8 @@
 
 Event date: To be confirmed.
 Venue: To be confirmed.
-<<<<<<< HEAD
-Organisers: Member 2.
-=======
-Organisers: Team coordinator, Member 1, Member 2.
->>>>>>> origin/main
+Organisers: Team coordinator, Member 1, Member 2, Member 3, Member 4
+
 
 ## Purpose
 
